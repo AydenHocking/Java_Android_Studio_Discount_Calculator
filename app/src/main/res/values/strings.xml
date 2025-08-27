@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DiscountCalculationActivity</string>
+    <string name="ticket_price_label">Ticket Price:</string>
+    <string name="ticket_price">Enter Ticket Price:</string>
+    <string name="discounted_percent_label">Discounted %:</string>
+    <string name="discounted_price_label">Discounted Price:</string>
+    <string name="discounted_percent"></string>
+    <string name="discounted_price"></string>
+    <string name="discounted_5_btn">5% Discount</string>
+    <string name="discounted_10_btn">10% Discount</string>
+    <string name="discounted_15_btn">15% Discount</string>
+    <string name="discounted_20_btn">20% Discount</string>
+    <string name="discounted_50_btn">50% Discount</string>
+    <string name="discounted_clear_btn">Clear</string>
+    <string name="TicketPriceInput" />
+
+
+</resources>
